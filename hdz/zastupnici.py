@@ -1,0 +1,1 @@
+print('zastupnici hadezeja')
